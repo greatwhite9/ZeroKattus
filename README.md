@@ -38,7 +38,3 @@ Open the `game.html` file in your preferred web browser. Use the provided naviga
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or pull requests to enhance the game.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
